@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/mars/create-react-app-buildpack.git"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "Gosling-Cognizeats",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+
+}

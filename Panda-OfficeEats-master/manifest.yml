@@ -1,0 +1,11 @@
+---
+applications:
+  - name: cognizEatsFrontEnd
+    memory: 1G
+    random-route: true
+    buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+path: build
+
+
+
+

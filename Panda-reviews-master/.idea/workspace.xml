@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9f60a6b-1633-4fff-bba5-32ae6b968232" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/service/ReviewService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/pojo/Review.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1204#1205#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gosling/reviews/repository/ReviewRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/gosling/reviews/service/ReviewServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="17" column="50" selection-start-line="16" selection-end-line="17" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepositoryCustom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gosling/reviews/controller/ReviewController.java" />
+        <option value="$PROJECT_DIR$/manifest.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gosling/reviews/service/ReviewServiceTest.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/test/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gosling/reviews/pojo/Review.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/gosling/reviews/repository/ReviewRepositoryTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550611421706" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ReviewRepositoryTest">
+    <configuration name="gosling-reviews [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ReviewRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gosling-reviews_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gosling.reviews.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gosling.reviews.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.gosling.reviews.repository.ReviewRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gosling-reviews_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gosling.reviews.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gosling.reviews.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.gosling.reviews.repository.ReviewRepositoryTest" />
+      <option name="METHOD_NAME" value="findRestaurantByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gosling-reviews_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gosling.reviews.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gosling.reviews.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gosling.reviews.service.ReviewServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewServiceTest.updateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gosling-reviews_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gosling.reviews.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gosling.reviews.service" />
+      <option name="MAIN_CLASS_NAME" value="com.gosling.reviews.service.ReviewServiceTest" />
+      <option name="METHOD_NAME" value="updateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gosling-reviews_main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gosling.ReviewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReviewRepositoryTest" />
+        <item itemvalue="JUnit.ReviewRepositoryTest.findRestaurantByIdTest" />
+        <item itemvalue="JUnit.ReviewServiceTest" />
+        <item itemvalue="JUnit.ReviewServiceTest.updateTest" />
+        <item itemvalue="Gradle.gosling-reviews [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9f60a6b-1633-4fff-bba5-32ae6b968232" name="Default Changelist" comment="" />
+      <created>1550503538312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550503538312</updated>
+      <workItem from="1550503539497" duration="907000" />
+      <workItem from="1550504536780" duration="1639000" />
+      <workItem from="1550506380763" duration="1737000" />
+      <workItem from="1550508214077" duration="1637000" />
+      <workItem from="1550510220331" duration="1833000" />
+      <workItem from="1550512136283" duration="1454000" />
+      <workItem from="1550513978549" duration="582000" />
+      <workItem from="1550516516029" duration="1843000" />
+      <workItem from="1550518503050" duration="1476000" />
+      <workItem from="1550520395346" duration="1227000" />
+      <workItem from="1550525792231" duration="1772000" />
+      <workItem from="1550527604122" duration="1540000" />
+      <workItem from="1550529553322" duration="1860000" />
+      <workItem from="1550531543394" duration="653000" />
+      <workItem from="1550587118644" duration="633000" />
+      <workItem from="1550587844982" duration="192000" />
+      <workItem from="1550589357324" duration="2269000" />
+      <workItem from="1550592214373" duration="2033000" />
+      <workItem from="1550594445059" duration="551000" />
+      <workItem from="1550595804296" duration="423000" />
+      <workItem from="1550596278570" duration="95000" />
+      <workItem from="1550604180037" duration="940000" />
+      <workItem from="1550605773367" duration="1681000" />
+      <workItem from="1550607606170" duration="604000" />
+      <workItem from="1550608903388" duration="346000" />
+      <workItem from="1550609476845" duration="447000" />
+      <workItem from="1550610261989" duration="467000" />
+      <workItem from="1550610977656" duration="323000" />
+      <workItem from="1550611576946" duration="1714000" />
+      <workItem from="1561138972850" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReviewServiceTest - 2019.02.19 at 10h 14m 10s.xml">
+      <configuration name="ReviewServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewServiceTest - 2019.02.19 at 10h 15m 26s.xml">
+      <configuration name="ReviewServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest - 2019.02.19 at 10h 16m 44s.xml">
+      <configuration name="ReviewRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest_findRestaurantByIdTest - 2019.02.19 at 10h 22m 51s.xml">
+      <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest_findRestaurantByIdTest - 2019.02.19 at 10h 25m 06s.xml">
+      <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest_findRestaurantByIdTest - 2019.02.19 at 10h 27m 12s.xml">
+      <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest_findRestaurantByIdTest - 2019.02.19 at 10h 29m 27s.xml">
+      <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest_findRestaurantByIdTest - 2019.02.19 at 10h 41m 48s.xml">
+      <configuration name="ReviewRepositoryTest.findRestaurantByIdTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest - 2019.02.19 at 14h 21m 05s.xml">
+      <configuration name="ReviewRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ReviewRepositoryTest - 2019.02.19 at 14h 44m 24s.xml">
+      <configuration name="ReviewRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32902000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35121602" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295325" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Build" order="7" visible="true" weight="0.3282967" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295325" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3295325" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepositoryCustom.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepositoryImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/ReviewApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.yml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/controller/ReviewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.0.1.RELEASE/e4f10fbe21036deaf8a127b5cff982cbde0be845/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/orm/jpa/JpaBaseConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/service/ReviewService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/pojo/Review.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1204#1205#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gosling/reviews/service/ReviewServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="17" column="50" selection-start-line="16" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gosling/reviews/repository/ReviewRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/gosling/reviews/repository/ReviewRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

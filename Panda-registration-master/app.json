@@ -1,0 +1,20 @@
+{
+  "addons": [
+
+    {
+      "plan":"cleardb:ignite"
+    }
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "gosling-registration",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}

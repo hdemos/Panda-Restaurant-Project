@@ -1,0 +1,233 @@
+/*.background{*/
+    /*filter: blur(8px);*/
+    /*-webkit-filter: blur(8px);*/
+/*}*/
+
+.info{
+    float: left;
+    width: 100%;
+}
+
+.info h3{
+    background: #22697F;
+    line-height: 36px;
+    /*padding: 5px 0 5px 20px;*/
+    border-radius: 4px;
+    letter-spacing: 1px;
+    color: #fff;
+    text-shadow:1px 1px 3px rgba(0,0,0,0.5);
+    font: 10pt Verdana;
+    text-transform: uppercase;
+}
+
+.review{
+    background: #E7F5FD;
+    color: #555;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+.review span{
+    float: left;
+}
+
+span.title{
+    text-align: left;
+    font-weight: bold;
+    padding: 0 0 10px 0;
+}
+
+span.author{
+    text-align: right;
+    float: left;
+    padding: 15px 0 0 0;
+}
+
+/*.submit:hover{*/
+    /*background: #D2D2D2;*/
+/*!*}*!*/
+
+/*.blueSubmit:hover{*/
+    /*background: #184A5A;*/
+    /*border: 1px solid #184A5A;*/
+/*}*/
+
+/*.submit{*/
+    /*background: #EAEAEA;*/
+    /*color: #555;*/
+    /*float: right;*/
+    /*text-transform: uppercase;*/
+    /*font: bold 10px Verdana;*/
+/*}*/
+
+.blueSubmit{
+    background: #22697F;
+    /*color: #fff;*/
+    border: 1px solid #22697F;
+}
+
+/*.right{*/
+    /*float: right;*/
+/*}*/
+
+/*.left{*/
+    /*float: left;*/
+/*}*/
+
+
+/*.form__input {*/
+    /*background: transparent;*/
+    /*border: 0;*/
+    /*border-bottom: solid 2px #2c3e50;*/
+    /*margin-right: 10px;*/
+    /*letter-spacing: 2px;*/
+    /*width: 10%;*/
+    /*padding: 0.4rem;*/
+/*}*/
+
+/*.form__button {*/
+    /*border: solid 2px #e74c3c;*/
+    /*background: transparent;*/
+    /*padding: 0.2rem 0.9rem;*/
+    /*margin: 0 0.2rem;*/
+    /*border-radius: 1px;*/
+    /*font-size: 1rem;*/
+    /*text-transform: uppercase;*/
+    /*font-weight: 500;*/
+    /*margin-left: 0.7rem;*/
+/*}*/
+
+.rest_buttons {
+    border: solid 2px white;
+    background: white;
+    padding: 0.4rem 0.6rem;
+    margin: 0 0.2rem;
+    border-radius: 1px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-left: 0.7rem;
+}
+
+/*.res__box {*/
+    /*background: #fff;*/
+    /*padding-bottom: 2rem;*/
+    /*border-radius: 5px;*/
+    /*box-shadow: -1px 2px 34px -13px rgba(0,0,0,0.75);*/
+    /*text-align: left;*/
+    /*overflow: hidden;*/
+/*}*/
+
+.rest__text {
+    margin-left: 15px;
+}
+
+.res__title {
+    color: #e74c3c;
+    text-transform: uppercase;
+    font-size: 3em;
+    padding: 0.5em 0 0.2rem 0;
+}
+
+.select-rest__title {
+
+    color: #e74c3c;
+    text-transform: uppercase;
+    font-size: 2em;
+    padding: 0.5em 0 0.2rem 0;
+}
+
+.res__subtitle {
+    text-transform: uppercase;
+    font-size: 1em;
+    letter-spacing: 2px;
+    color: white;
+}
+
+.res__subtitle span {
+    text-transform: none;
+    font-weight: 400;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+}
+
+.select-rest {
+    margin: 0 auto;
+    width: 60%;
+}
+
+/*.rest__box-img {*/
+    /*height: 15% !important;*/
+    /*width: 15% !important;*/
+
+/*}*/
+
+.select-rest__img {
+    height: 30% !important;
+    width: 30% !important;
+}
+
+
+
+.select-rest__button {
+    border: solid 2px #e74c3c;
+    background: white;
+    padding: 0.2rem 0.9rem;
+    margin: 0 0.2rem;
+    border-radius: 1px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+/*.link_button {*/
+    /*border: solid 2px #e74c3c;*/
+    /*background: transparent;*/
+    /*padding: 0.2rem 0.9rem;*/
+    /*margin: 0 0.2rem;*/
+    /*border-radius: 1px;*/
+    /**/
+    /*text-transform: uppercase;*/
+    /*font-weight: 500;*/
+/*}*/
+
+.title {
+    padding: 1em;
+}
+.form__input{
+    margin: 1em;
+    font-size: large;
+    min-width: 130px;
+
+}
+.searchForm{
+    background: whitesmoke;
+    opacity: 20%;
+    max-width: 40%;
+    /*min-height: 40px;*/
+    border-radius: 1.5em;
+    margin: auto;
+    text-align: center;
+    font-size: x-large;
+    min-height: 40px;
+
+
+}
+
+.form__button {
+    font-size: x-large;
+    margin: 0.75em;
+    background-color: #6BB445;
+    color: white;
+    border-radius: 1.5em;
+
+}
+
+.address{
+    font-family: "Al Nile";
+    color: white;
+    font-size: large;
+}
+

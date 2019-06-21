@@ -1,0 +1,151 @@
+
+
+
+
+
+
+.colorname{
+    color: red;
+}
+
+
+.button {
+    min-width: 50px;
+    height: 40px;
+    padding: 0 15px;
+    background: #fa4251;
+    white-space: nowrap;
+    border-radius: 3px;
+    font-size: 16px;
+    color: #fff;
+    transition: all .2s ease-out, color .2s ease-out;
+    border: 0;
+    cursor: pointer;
+    font-weight: 200;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+}
+
+.registration {
+    background-color: cornsilk;
+
+    width: 97%;
+    height: 35px;
+    font-size: 1.1em;
+    display: block;
+    margin: 2px auto;
+    padding: 0 2px;
+    transition: .5s;
+    border-radius: 5px;
+    font-family: Raleway, serif;
+    border: 1px solid rgb(150, 150, 150);
+}
+.firstName {
+    text-color: red;
+}
+
+.s014 {
+    background-color: #f1f1f1;
+    opacity: 0.9;
+    max-width: 45%;
+    max-height: 50%;
+    border-radius: 20px;
+}
+
+.registration-buttons{
+    margin: 5px;
+    padding-bottom: 10px;
+
+}
+.btn{
+    border-radius:20px;
+    background-color: #6BB445;
+    font-size: x-large;
+    color: white;
+
+}
+
+.signin{
+    background-color: cornsilk;
+
+    width: 90%;
+    height: 35px;
+    font-size: 1.5em;
+    display: block;
+    margin: 2px auto;
+    padding: 0 2px;
+    transition: .5s;
+    border-radius: 5px;
+    font-family: Raleway, serif;
+    border: 1px solid rgb(150, 150, 150);
+}
+
+.button-area-line {
+    margin: 10px auto;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    max-width: 80%;
+
+}
+
+.a-button{
+    /*background: #999;*/
+    padding: 1em;
+    /*font-size: .9em;*/
+    /*margin: 10em;*/
+    margin-top: 5em;
+    margin-left: 4em;
+    margin-right: 4em;
+    text-decoration: none;
+    flex-grow: 1;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #6BB445;
+    font-size: x-large;
+    color: white;
+}
+
+form span.error {
+    color: red;
+
+
+}
+
+.hidden {
+    display: none;
+
+}
+
+.SignUpTitle {
+    font-size: xx-large;
+    /*text-color: #6BB445;*/
+    font-family: Blippo, fantasy;
+    font-weight: bolder;
+}
+.SignInTitle {
+    font-size: xx-large;
+    /*color:  #6BB445;*/
+    font-family: Blippo, fantasy;
+    font-weight: bolder;
+
+}
+legend {
+    text-align: center;
+}
+.HomeBtn{
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 5em;
+    position: absolute;
+    top: 30px;
+    right: 50px;
+}
+
